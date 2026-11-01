@@ -1,0 +1,114 @@
+[
+  {
+    "id": "college_campus_main",
+    "name": "Administration Block",
+    "code": "MAIN_BUILDING",
+    "mapped_dataset_ids": [
+      "B01",
+      "B02",
+      "B03"
+    ],
+    "category": "Administration & Core Engineering (CSE)",
+    "gross_floor_area_sqm": 18500,
+    "floors": 4,
+    "latitude": 11.9195,
+    "longitude": 79.6106,
+    "color": "#EAB308",
+    "user_tag": "administration_axis",
+    "hud_label": "ADMINISTRATION BLOCK",
+    "hud_occupancy": 78,
+    "description": "Central 4-story administrative headquarters featuring a double-height reflective glass curtain atrium, executive administration suites, and front plaza water fountain."
+  },
+  {
+    "id": "college_campus_mother_teresa",
+    "name": "Science Block",
+    "code": "MOTHER_TERESA",
+    "mapped_dataset_ids": [
+      "B04",
+      "B05",
+      "B06"
+    ],
+    "category": "Electronics & Communication Engineering (ECE)",
+    "gross_floor_area_sqm": 14200,
+    "floors": 4,
+    "latitude": 11.91995,
+    "longitude": 79.61055,
+    "color": "#A855F7",
+    "user_tag": "science_block",
+    "hud_label": "SCIENCE BLOCK",
+    "hud_occupancy": 81,
+    "description": "Four-story modern science and engineering facility with vertical glass window bays, advanced electronics labs, and rooftop IoT communications."
+  },
+  {
+    "id": "college_campus_auditorium",
+    "name": "CSE / Auditorium Wing",
+    "code": "AUDITORIUM",
+    "mapped_dataset_ids": [
+      "B07"
+    ],
+    "category": "Auditorium & Electrical Engineering (EEE)",
+    "gross_floor_area_sqm": 8800,
+    "floors": 3,
+    "latitude": 11.9193,
+    "longitude": 79.61005,
+    "color": "#3B82F6",
+    "user_tag": "cse_block",
+    "hud_label": "CSE / AUDITORIUM",
+    "hud_occupancy": 62,
+    "description": "Three-story modern academic building with continuous ribbon glass facades, white horizontal sunshade louvers, and core computing laboratories."
+  },
+  {
+    "id": "college_campus_mba_lib",
+    "name": "Library",
+    "code": "MBA_LIB_BLOCK",
+    "mapped_dataset_ids": [
+      "B08"
+    ],
+    "category": "Management Studies & Central Library",
+    "gross_floor_area_sqm": 9800,
+    "floors": 3,
+    "latitude": 11.92015,
+    "longitude": 79.6113,
+    "color": "#EF4444",
+    "user_tag": "library_block",
+    "hud_label": "LIBRARY",
+    "hud_occupancy": 90,
+    "description": "Modern 3-story cubic knowledge resource center with reflective curtain wall glazing, timber accent cladding, and IEEE digital library stacks."
+  },
+  {
+    "id": "college_campus_pt_room",
+    "name": "Sports Complex",
+    "code": "PT_ROOM",
+    "mapped_dataset_ids": [
+      "B09"
+    ],
+    "category": "Physical Training & Athletics",
+    "gross_floor_area_sqm": 1200,
+    "floors": 1,
+    "latitude": 11.92025,
+    "longitude": 79.61155,
+    "color": "#EC4899",
+    "user_tag": "sports_complex",
+    "hud_label": "SPORTS COMPLEX",
+    "hud_occupancy": 45,
+    "description": "State-of-the-art indoor sports arena with an iconic arched barrel-vaulted roof, floor-to-ceiling glass entrance, and adjacent athletic turf."
+  },
+  {
+    "id": "college_campus_canteen",
+    "name": "Hostel / Dining Hall",
+    "code": "CANTEEN",
+    "mapped_dataset_ids": [
+      "B10"
+    ],
+    "category": "Student Dining & Refreshment",
+    "gross_floor_area_sqm": 2400,
+    "floors": 1,
+    "latitude": 11.9191,
+    "longitude": 79.6112,
+    "color": "#22C55E",
+    "user_tag": "hostel_dining",
+    "hud_label": "HOSTEL / DINING",
+    "hud_occupancy": 65,
+    "description": "Contemporary multi-story student residential hostel and dining pavilion anchoring the northeast quadrant of campus."
+  }
+]
